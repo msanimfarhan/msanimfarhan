@@ -79,7 +79,7 @@ Aspiring AI/ML Engineer | LLMs • RAG • MLOps • Networking
 ### 🛠 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,mysql,mongodb,git,github,linux,docker,kubernetes,aws,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,mysql,git,github,linux,aws,tensorflow,pytorch" />
 </p>
 
 ---
