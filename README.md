@@ -5,7 +5,7 @@ Computer Science Student @ Dalhousie University
 </h3>
 
 <h3 align="center">
-Aspiring AI/ML Engineer | LLMs • RAG • MLOps • Networking
+Aspiring AI/ML & Network Engineer | LLMs • RAG • MLOps • Networking
 </h3>
 
 <p align="center">
